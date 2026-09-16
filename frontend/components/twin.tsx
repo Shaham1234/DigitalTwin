@@ -196,3 +196,13 @@ export default function Twin() {
         </div>
     );
 }
+
+// This is the Twin component that is used to display the chatbot interface.
+// It is a React component that uses the useState and useEffect hooks to manage the state of the chatbot.
+// It also uses the fetch API to send messages to the backend and receive responses.
+// It also uses the Lucide React icons for the icons.
+// It also uses the Tailwind CSS classes for the styling.
+// It also uses the React hooks for the state management.
+// It also uses the fetch API for the API calls.
+// It also uses the Lucide React icons for the icons.
+// It also uses the Tailwind CSS classes for the styling.
